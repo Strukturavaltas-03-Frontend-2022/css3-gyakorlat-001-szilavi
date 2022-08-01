@@ -171,7 +171,7 @@ body {
 	-webkit-transform: scale(0.8, 0.8) translate3d(0, 0, 0);
 			transform: scale(0.8, 0.8) translate3d(0, 0, 0);
   }
-  
+
   .menu-open:checked ~ .menu-item {
 	-webkit-transition-timing-function: cubic-bezier(0.165, 0.84, 0.44, 1);
 			transition-timing-function: cubic-bezier(0.165, 0.84, 0.44, 1);
